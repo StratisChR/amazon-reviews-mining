@@ -1,0 +1,14 @@
+# Same as pyproject.toml; `pip install -e ".[notebook]"` installs these and the package.
+numpy
+pandas>=2.0
+pyarrow
+scipy
+scikit-learn>=1.3
+spacy>=3.7
+spacy-lookups-data
+vaderSentiment
+gensim>=4.3
+matplotlib
+jupyter
+ipykernel
+pytest
